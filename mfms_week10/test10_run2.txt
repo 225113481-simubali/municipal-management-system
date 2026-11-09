@@ -1,0 +1,143 @@
+
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. List Employees
+3. Search Employee
+4. Add Supplier
+5. List Suppliers
+6. Add Asset
+7. List Assets
+8. Add Budget
+9. Employee Report
+10. Budget Report
+11. Save Data
+12. Load Data
+13. Save Employees (Binary)
+14. Load Employees (Binary)
+0. Exit
+Enter choice: Employees: 2 record(s) loaded.
+Suppliers: 1 record(s) loaded.
+Assets: 1 record(s) loaded.
+Budgets: 1 record(s) loaded.
+
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. List Employees
+3. Search Employee
+4. Add Supplier
+5. List Suppliers
+6. Add Asset
+7. List Assets
+8. Add Budget
+9. Employee Report
+10. Budget Report
+11. Save Data
+12. Load Data
+13. Save Employees (Binary)
+14. Load Employees (Binary)
+0. Exit
+Enter choice: 
+--- EMPLOYEES ---
+ID: 1001 | Name: Maria Nangolo | Salary: 18500.50
+ID: 1002 | Name: Simon Amutenya | Salary: 17200.00
+
+Press Enter to continue...
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. List Employees
+3. Search Employee
+4. Add Supplier
+5. List Suppliers
+6. Add Asset
+7. List Assets
+8. Add Budget
+9. Employee Report
+10. Budget Report
+11. Save Data
+12. Load Data
+13. Save Employees (Binary)
+14. Load Employees (Binary)
+0. Exit
+Enter choice: 
+--- SUPPLIERS ---
+Name : ABC Office Supplies
+Email: sales@abc.com
+Phone: 0611234567
+Town : Windhoek
+
+
+Press Enter to continue...
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. List Employees
+3. Search Employee
+4. Add Supplier
+5. List Suppliers
+6. Add Asset
+7. List Assets
+8. Add Budget
+9. Employee Report
+10. Budget Report
+11. Save Data
+12. Load Data
+13. Save Employees (Binary)
+14. Load Employees (Binary)
+0. Exit
+Enter choice: 
+--- ASSETS ---
+Asset: Laptop | Value: 15000.00
+
+Press Enter to continue...
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. List Employees
+3. Search Employee
+4. Add Supplier
+5. List Suppliers
+6. Add Asset
+7. List Assets
+8. Add Budget
+9. Employee Report
+10. Budget Report
+11. Save Data
+12. Load Data
+13. Save Employees (Binary)
+14. Load Employees (Binary)
+0. Exit
+Enter choice: 
+--- BUDGET REPORT ---
+Total revenue: 500000.00
+Total expenses: 350000.00
+Balance: 150000.00
+SURPLUS
+
+Press Enter to continue...
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. List Employees
+3. Search Employee
+4. Add Supplier
+5. List Suppliers
+6. Add Asset
+7. List Assets
+8. Add Budget
+9. Employee Report
+10. Budget Report
+11. Save Data
+12. Load Data
+13. Save Employees (Binary)
+14. Load Employees (Binary)
+0. Exit
+Enter choice: Goodbye.
