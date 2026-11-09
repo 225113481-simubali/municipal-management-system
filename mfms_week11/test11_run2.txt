@@ -1,0 +1,203 @@
+
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. Display Employees
+3. Search Employee
+4. Add Supplier
+5. Display Suppliers
+6. Add Asset
+7. Display Assets
+8. Add Budget
+9. Display Budgets
+10. Add Project
+11. Display Projects
+12. Employee Report
+13. Budget Report
+14. Save Data
+15. Load Data
+0. Exit
+Enter choice: Employees: 3 record(s) loaded.
+Suppliers: 3 record(s) loaded.
+Assets: 3 record(s) loaded.
+Budgets: 3 record(s) loaded.
+Projects: 3 record(s) loaded.
+
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. Display Employees
+3. Search Employee
+4. Add Supplier
+5. Display Suppliers
+6. Add Asset
+7. Display Assets
+8. Add Budget
+9. Display Budgets
+10. Add Project
+11. Display Projects
+12. Employee Report
+13. Budget Report
+14. Save Data
+15. Load Data
+0. Exit
+Enter choice: 
+ID     Name                 Department            Salary
+1001   Maria Nangolo        Finance             18500.50
+1002   Simon Amutenya       Engineering         17200.00
+1003   Anna Shikongo        Health              21000.75
+
+Press Enter to continue...
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. Display Employees
+3. Search Employee
+4. Add Supplier
+5. Display Suppliers
+6. Add Asset
+7. Display Assets
+8. Add Budget
+9. Display Budgets
+10. Add Project
+11. Display Projects
+12. Employee Report
+13. Budget Report
+14. Save Data
+15. Load Data
+0. Exit
+Enter choice: 
+ID     Name                   Email                    Phone        Town        
+501    ABC Office Supplies    sales@abc.com            0611234567   Windhoek    
+502    Namibia Stationery     info@namstat.com         0612223344   Swakopmund  
+503    Oshakati Hardware      hello@oshhw.com          0656677889   Oshakati    
+
+Press Enter to continue...
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. Display Employees
+3. Search Employee
+4. Add Supplier
+5. Display Suppliers
+6. Add Asset
+7. Display Assets
+8. Add Budget
+9. Display Budgets
+10. Add Project
+11. Display Projects
+12. Employee Report
+13. Budget Report
+14. Save Data
+15. Load Data
+0. Exit
+Enter choice: 
+ID     Description                        Value Acquired    
+701    Bulldozer                      850000.00 15/03/2020
+702    Laptop                          15000.50 01/07/2024
+703    Truck                          420000.00 20/11/2022
+
+Press Enter to continue...
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. Display Employees
+3. Search Employee
+4. Add Supplier
+5. Display Suppliers
+6. Add Asset
+7. Display Assets
+8. Add Budget
+9. Display Budgets
+10. Add Project
+11. Display Projects
+12. Employee Report
+13. Budget Report
+14. Save Data
+15. Load Data
+0. Exit
+Enter choice: 
+Department                Allocated          Spent        Balance
+Finance                  2500000.00     2100000.00      400000.00
+Engineering              4500000.00     4700000.00     -200000.00
+Health                   3200000.00     1900000.00     1300000.00
+
+Press Enter to continue...
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. Display Employees
+3. Search Employee
+4. Add Supplier
+5. Display Suppliers
+6. Add Asset
+7. Display Assets
+8. Add Budget
+9. Display Budgets
+10. Add Project
+11. Display Projects
+12. Employee Report
+13. Budget Report
+14. Save Data
+15. Load Data
+0. Exit
+Enter choice: 
+ID     Title                             Budget Start        End         
+801    Water Pipeline                5000000.00 01/02/2026   30/11/2027
+802    Clinic Upgrade                2500000.00 15/03/2026   31/08/2026
+803    Road Resurfacing              8000000.00 01/06/2026   31/05/2027
+
+Press Enter to continue...
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. Display Employees
+3. Search Employee
+4. Add Supplier
+5. Display Suppliers
+6. Add Asset
+7. Display Assets
+8. Add Budget
+9. Display Budgets
+10. Add Project
+11. Display Projects
+12. Employee Report
+13. Budget Report
+14. Save Data
+15. Load Data
+0. Exit
+Enter choice: 
+--- BUDGET REPORT ---
+Total allocated: 10200000.00
+Total spent: 8700000.00
+Balance: 1500000.00
+SURPLUS
+
+Press Enter to continue...
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. Display Employees
+3. Search Employee
+4. Add Supplier
+5. Display Suppliers
+6. Add Asset
+7. Display Assets
+8. Add Budget
+9. Display Budgets
+10. Add Project
+11. Display Projects
+12. Employee Report
+13. Budget Report
+14. Save Data
+15. Load Data
+0. Exit
+Enter choice: Goodbye.

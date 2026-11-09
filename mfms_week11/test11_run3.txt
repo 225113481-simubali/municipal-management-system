@@ -1,0 +1,112 @@
+
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. Display Employees
+3. Search Employee
+4. Add Supplier
+5. Display Suppliers
+6. Add Asset
+7. Display Assets
+8. Add Budget
+9. Display Budgets
+10. Add Project
+11. Display Projects
+12. Employee Report
+13. Budget Report
+14. Save Data
+15. Load Data
+0. Exit
+Enter choice: Employees: 3 record(s) loaded.
+Suppliers: 3 record(s) loaded.
+Assets: 3 record(s) loaded.
+Budgets: 3 record(s) loaded.
+Projects: 3 record(s) loaded.
+
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. Display Employees
+3. Search Employee
+4. Add Supplier
+5. Display Suppliers
+6. Add Asset
+7. Display Assets
+8. Add Budget
+9. Display Budgets
+10. Add Project
+11. Display Projects
+12. Employee Report
+13. Budget Report
+14. Save Data
+15. Load Data
+0. Exit
+Enter choice: Enter employee ID to search: Employee not found.
+
+Press Enter to continue...
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. Display Employees
+3. Search Employee
+4. Add Supplier
+5. Display Suppliers
+6. Add Asset
+7. Display Assets
+8. Add Budget
+9. Display Budgets
+10. Add Project
+11. Display Projects
+12. Employee Report
+13. Budget Report
+14. Save Data
+15. Load Data
+0. Exit
+Enter choice: Enter employee ID to search: Employee found.
+ID: 1002 | Name: Simon Amutenya | Department: Engineering | Salary: 17200.00
+
+Press Enter to continue...
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. Display Employees
+3. Search Employee
+4. Add Supplier
+5. Display Suppliers
+6. Add Asset
+7. Display Assets
+8. Add Budget
+9. Display Budgets
+10. Add Project
+11. Display Projects
+12. Employee Report
+13. Budget Report
+14. Save Data
+15. Load Data
+0. Exit
+Enter choice: Invalid choice.
+
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. Display Employees
+3. Search Employee
+4. Add Supplier
+5. Display Suppliers
+6. Add Asset
+7. Display Assets
+8. Add Budget
+9. Display Budgets
+10. Add Project
+11. Display Projects
+12. Employee Report
+13. Budget Report
+14. Save Data
+15. Load Data
+0. Exit
+Enter choice: Goodbye.
