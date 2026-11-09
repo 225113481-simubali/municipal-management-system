@@ -1,0 +1,75 @@
+
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. Display Employees
+3. Search Employee
+4. Add Supplier
+5. Display Suppliers
+6. Add Asset
+7. Display Assets
+8. Add Budget
+9. Display Budgets
+10. Add Project
+11. Display Projects
+12. Employee Report
+13. Budget Report
+14. Save Data
+15. Load Data
+16. Update Employee Salary
+0. Exit
+Enter choice: Employees: 3 record(s) loaded.
+Suppliers: 0 record(s) loaded.
+Assets: 0 record(s) loaded.
+Budgets: 0 record(s) loaded.
+Projects: 0 record(s) loaded.
+
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. Display Employees
+3. Search Employee
+4. Add Supplier
+5. Display Suppliers
+6. Add Asset
+7. Display Assets
+8. Add Budget
+9. Display Budgets
+10. Add Project
+11. Display Projects
+12. Employee Report
+13. Budget Report
+14. Save Data
+15. Load Data
+16. Update Employee Salary
+0. Exit
+Enter choice: 
+ID     Name                 Department            Salary
+1001   Maria Nangolo        Finance             18500.50
+1002   Simon Amutenya       Engineering         20000.00
+1003   Anna Shikongo        Health              21000.75
+
+Press Enter to continue...
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. Display Employees
+3. Search Employee
+4. Add Supplier
+5. Display Suppliers
+6. Add Asset
+7. Display Assets
+8. Add Budget
+9. Display Budgets
+10. Add Project
+11. Display Projects
+12. Employee Report
+13. Budget Report
+14. Save Data
+15. Load Data
+16. Update Employee Salary
+0. Exit
+Enter choice: Goodbye.

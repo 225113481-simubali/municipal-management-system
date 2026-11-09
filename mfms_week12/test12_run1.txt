@@ -1,0 +1,209 @@
+
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. Display Employees
+3. Search Employee
+4. Add Supplier
+5. Display Suppliers
+6. Add Asset
+7. Display Assets
+8. Add Budget
+9. Display Budgets
+10. Add Project
+11. Display Projects
+12. Employee Report
+13. Budget Report
+14. Save Data
+15. Load Data
+16. Update Employee Salary
+0. Exit
+Enter choice: Enter employee ID: Enter name: Enter department: Enter salary: Employee added.
+
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. Display Employees
+3. Search Employee
+4. Add Supplier
+5. Display Suppliers
+6. Add Asset
+7. Display Assets
+8. Add Budget
+9. Display Budgets
+10. Add Project
+11. Display Projects
+12. Employee Report
+13. Budget Report
+14. Save Data
+15. Load Data
+16. Update Employee Salary
+0. Exit
+Enter choice: Enter employee ID: Enter name: Enter department: Enter salary: Employee added.
+
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. Display Employees
+3. Search Employee
+4. Add Supplier
+5. Display Suppliers
+6. Add Asset
+7. Display Assets
+8. Add Budget
+9. Display Budgets
+10. Add Project
+11. Display Projects
+12. Employee Report
+13. Budget Report
+14. Save Data
+15. Load Data
+16. Update Employee Salary
+0. Exit
+Enter choice: Enter employee ID: Enter name: Enter department: Enter salary: Employee added.
+
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. Display Employees
+3. Search Employee
+4. Add Supplier
+5. Display Suppliers
+6. Add Asset
+7. Display Assets
+8. Add Budget
+9. Display Budgets
+10. Add Project
+11. Display Projects
+12. Employee Report
+13. Budget Report
+14. Save Data
+15. Load Data
+16. Update Employee Salary
+0. Exit
+Enter choice: Enter employee ID to update: Enter new salary: Salary updated.
+ID: 1002 | Name: Simon Amutenya | Department: Engineering | Salary: 19000.00
+
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. Display Employees
+3. Search Employee
+4. Add Supplier
+5. Display Suppliers
+6. Add Asset
+7. Display Assets
+8. Add Budget
+9. Display Budgets
+10. Add Project
+11. Display Projects
+12. Employee Report
+13. Budget Report
+14. Save Data
+15. Load Data
+16. Update Employee Salary
+0. Exit
+Enter choice: Enter employee ID to update: Enter new salary: Salary updated.
+ID: 1002 | Name: Simon Amutenya | Department: Engineering | Salary: 20000.00
+
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. Display Employees
+3. Search Employee
+4. Add Supplier
+5. Display Suppliers
+6. Add Asset
+7. Display Assets
+8. Add Budget
+9. Display Budgets
+10. Add Project
+11. Display Projects
+12. Employee Report
+13. Budget Report
+14. Save Data
+15. Load Data
+16. Update Employee Salary
+0. Exit
+Enter choice: Enter employee ID to update: Employee with ID 9999 was not found.
+
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. Display Employees
+3. Search Employee
+4. Add Supplier
+5. Display Suppliers
+6. Add Asset
+7. Display Assets
+8. Add Budget
+9. Display Budgets
+10. Add Project
+11. Display Projects
+12. Employee Report
+13. Budget Report
+14. Save Data
+15. Load Data
+16. Update Employee Salary
+0. Exit
+Enter choice: 
+ID     Name                 Department            Salary
+1001   Maria Nangolo        Finance             18500.50
+1002   Simon Amutenya       Engineering         20000.00
+1003   Anna Shikongo        Health              21000.75
+
+Press Enter to continue...
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. Display Employees
+3. Search Employee
+4. Add Supplier
+5. Display Suppliers
+6. Add Asset
+7. Display Assets
+8. Add Budget
+9. Display Budgets
+10. Add Project
+11. Display Projects
+12. Employee Report
+13. Budget Report
+14. Save Data
+15. Load Data
+16. Update Employee Salary
+0. Exit
+Enter choice: Employees: 3 record(s) saved.
+Suppliers: 0 record(s) saved.
+Assets: 0 record(s) saved.
+Budgets: 0 record(s) saved.
+Projects: 0 record(s) saved.
+
+==================================
+MUNICIPAL FINANCIAL MANAGEMENT
+==================================
+1. Add Employee
+2. Display Employees
+3. Search Employee
+4. Add Supplier
+5. Display Suppliers
+6. Add Asset
+7. Display Assets
+8. Add Budget
+9. Display Budgets
+10. Add Project
+11. Display Projects
+12. Employee Report
+13. Budget Report
+14. Save Data
+15. Load Data
+16. Update Employee Salary
+0. Exit
+Enter choice: Goodbye.

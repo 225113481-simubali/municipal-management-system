@@ -1,0 +1,31 @@
+PART A - POINTERS
+Value of age: 25
+Address of age: 0000005D1D5FFBD4
+Value of p (an address): 0000005D1D5FFBD4
+Value at *p: 25
+After *p = 30, age = 30
+
+PART B - SWAP SALARIES
+Before: A = 18500.50, B = 21000.75
+After swapWrong: A = 18500.50, B = 21000.75
+After swapSalaries: A = 21000.75, B = 18500.50
+
+PART C - ARRAYS AND FUNCTIONS
+Salaries before the raise:
+  Employee 1: N$15000.00
+  Employee 2: N$18500.50
+  Employee 3: N$21000.75
+  Employee 4: N$17200.00
+Highest: N$21000.75
+Average: N$17925.31
+Salaries after a 10% raise:
+  Employee 1: N$16500.00
+  Employee 2: N$20350.55
+  Employee 3: N$23100.83
+  Employee 4: N$18920.00
+Average after the raise: N$19717.84
+
+PART D - MODIFY EMPLOYEE RECORDS
+Simon now earns N$19000.00
+Simon now earns N$20000.00
+Employee 9999 was not found.
